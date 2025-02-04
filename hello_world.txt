@@ -1,0 +1,1 @@
+Adding some text according to 6. on "Git Basics" lesson.
